@@ -1,0 +1,43 @@
+body {
+  min-height: 2000px;
+  padding-top: 70px;
+}
+.navbar-brand,
+.navbar-nav li a {
+    line-height: 60px;
+    height: 60px;
+    padding-top: 0;
+	
+	
+}
+.jumbotron{
+	min-height: 525px; 
+	background:url("../images/jumb.jpg");
+	background-size: 1200px 525px;
+    background-repeat: no-repeat;
+	
+	
+}
+.bottomright {
+    position: absolute;
+    bottom: 225px;
+    right: 125px;
+    font-size: 18px;
+}
+.bottomleft {
+     position: absolute;
+    bottom: 225px;
+    left: 125px;
+    font-size: 18px;
+}
+
+
+
+#oval {
+	width: 135px;
+	height: 60px;
+	background: #4ddbff;
+	text-align: center;
+	color:white;
+	border-radius: 100px / 50px;
+}

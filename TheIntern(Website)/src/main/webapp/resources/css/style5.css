@@ -1,0 +1,52 @@
+body {
+  min-height: 2000px;
+  padding-top: 70px;
+}
+.navbar-brand,
+.navbar-nav li a {
+    line-height: 60px;
+    height: 60px;
+    padding-top: 0;
+	
+	
+}
+.jumbotron{
+	min-height: 250px; 
+	background:url("../images/employeehome.jpg");
+	background-size: 1200px 250px;
+    background-repeat: no-repeat;
+	
+	
+}
+.bottomright {
+    position: absolute;
+    bottom: 225px;
+    right: 125px;
+    font-size: 18px;
+}
+.bottomleft {
+     position: absolute;
+    bottom: 225px;
+    left: 125px;
+    font-size: 18px;
+}
+.user{
+	
+	min-width:500px;
+	
+}
+.user1{
+	
+	min-width:1500px;
+	
+}
+
+
+#oval {
+	width: 135px;
+	height: 60px;
+	background: #4ddbff;
+	text-align: center;
+	color:white;
+	border-radius: 100px / 50px;
+}
